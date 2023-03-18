@@ -1,0 +1,44 @@
+[
+    {
+        "mapID": [586, 587, 588],
+        "mapName": "西津渡",
+        "npcID": [109570, 111968, 112443],
+        "npcName": "张景超",
+        "banner": "banner/张景超.jpg"
+    },
+    {
+        "mapID": [586, 587, 588],
+        "mapName": "西津渡",
+        "npcID": [110490, 111996, 112478],
+        "npcName": "刘展",
+        "banner": "/banner/刘展.jpg"
+    },
+    {
+        "mapID": [586, 587, 588],
+        "mapName": "西津渡",
+        "npcID": [109619, 111971, 112446],
+        "npcName": "苏凤楼",
+        "banner": "/banner/苏凤楼.jpg"
+    },
+    {
+        "mapID": [586, 587, 588],
+        "mapName": "西津渡",
+        "npcID": [110893, 112007, 112480],
+        "npcName": "韩敬青",
+        "banner": "/banner/韩敬青.jpg"
+    },
+    {
+        "mapID": [586, 587, 588],
+        "mapName": "西津渡",
+        "npcID": [109804, 111972, 112447],
+        "npcName": "藤原佑野",
+        "banner": "/banner/藤原佑野.jpg"
+    },
+    {
+        "mapID": [586, 587, 588],
+        "mapName": "西津渡",
+        "npcID": [110537, 112044, 112536],
+        "npcName": "李重茂",
+        "banner": "/banner/李重茂.jpg"
+    }
+]
