@@ -4,7 +4,7 @@
         "mapName": "西津渡",
         "npcID": [109570, 111968, 112443],
         "npcName": "张景超",
-        "banner": "banner/张景超.jpg"
+        "banner": "/banner/张景超.jpg"
     },
     {
         "mapID": [586, 587, 588],
