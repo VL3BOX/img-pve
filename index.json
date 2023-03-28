@@ -1,5 +1,12 @@
 [
     {
+        "mapID": [],
+        "mapName": "默认",
+        "npcID": [],
+        "npcName": "默认",
+        "banner": "/banner/默认.jpg"
+    },
+    {
         "mapID": [586, 587, 588],
         "mapName": "西津渡",
         "npcID": [109570, 111968, 112443],
