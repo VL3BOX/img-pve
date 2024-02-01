@@ -17,4 +17,4 @@ jobs:
           version: latest
 
       - run: |
-          rclone sync . r2:/vl3box/pve/
+          rclone sync . r2:/vl3box/pve/ --exclude=*/*
